@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\i386-win32\fpc.exe" Date="1313016277"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\User\Desktop\Lista_simples_Ordenada\lib\i386-win32 -FuC:\Users\User\Desktop\Lista_simples_Ordenada\ -FUC:\Users\User\Desktop\Lista_simples_Ordenada\lib\i386-win32\ -FEC:\Users\User\Desktop\Lista_simples_Ordenada\ -oC:\Users\User\Desktop\Lista_simples_Ordenada\Lista_simples_Ordenada.exe Lista_simples_Ordenada.lpr"/>
+</CONFIG>

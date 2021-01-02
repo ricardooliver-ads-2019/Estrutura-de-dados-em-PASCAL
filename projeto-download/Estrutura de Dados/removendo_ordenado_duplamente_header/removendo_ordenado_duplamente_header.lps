@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="removendo_ordenado_duplamente_header.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="64"/>
+        <CursorPos X="9" Y="90"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="removendo_ordenado_duplamente_header.lpr"/>
+        <Caret Line="20" Column="13"/>
+      </Position1>
+      <Position2>
+        <Filename Value="removendo_ordenado_duplamente_header.lpr"/>
+        <Caret Line="96" Column="53" TopLine="79"/>
+      </Position2>
+      <Position3>
+        <Filename Value="removendo_ordenado_duplamente_header.lpr"/>
+        <Caret Line="104" Column="49" TopLine="81"/>
+      </Position3>
+      <Position4>
+        <Filename Value="removendo_ordenado_duplamente_header.lpr"/>
+        <Caret Line="125" Column="21" TopLine="91"/>
+      </Position4>
+      <Position5>
+        <Filename Value="removendo_ordenado_duplamente_header.lpr"/>
+        <Caret Line="107" Column="13" TopLine="90"/>
+      </Position5>
+      <Position6>
+        <Filename Value="removendo_ordenado_duplamente_header.lpr"/>
+        <Caret Line="86" Column="11" TopLine="42"/>
+      </Position6>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

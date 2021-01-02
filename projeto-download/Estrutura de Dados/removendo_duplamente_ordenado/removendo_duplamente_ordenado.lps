@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="86"/>
+        <CursorPos X="54" Y="118"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="21" HistoryIndex="20">
+      <Position1>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="98" Column="23" TopLine="56"/>
+      </Position1>
+      <Position2>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="93" Column="13" TopLine="59"/>
+      </Position2>
+      <Position3>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="73" Column="64" TopLine="59"/>
+      </Position3>
+      <Position4>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="94" Column="35" TopLine="59"/>
+      </Position4>
+      <Position5>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="92" Column="31" TopLine="60"/>
+      </Position5>
+      <Position6>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="102" Column="36" TopLine="60"/>
+      </Position6>
+      <Position7>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="103" Column="30" TopLine="60"/>
+      </Position7>
+      <Position8>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="83" Column="20" TopLine="62"/>
+      </Position8>
+      <Position9>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="82" Column="12" TopLine="62"/>
+      </Position9>
+      <Position10>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="84" Column="12" TopLine="62"/>
+      </Position10>
+      <Position11>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="87" Column="8" TopLine="66"/>
+      </Position11>
+      <Position12>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="89" Column="5" TopLine="66"/>
+      </Position12>
+      <Position13>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="87" Column="9" TopLine="66"/>
+      </Position13>
+      <Position14>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="76" Column="24" TopLine="66"/>
+      </Position14>
+      <Position15>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="78" Column="50" TopLine="58"/>
+      </Position15>
+      <Position16>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="85" Column="13" TopLine="58"/>
+      </Position16>
+      <Position17>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="76" Column="37" TopLine="64"/>
+      </Position17>
+      <Position18>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="85" Column="51" TopLine="75"/>
+      </Position18>
+      <Position19>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="113" Column="37"/>
+      </Position19>
+      <Position20>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="95" Column="10" TopLine="61"/>
+      </Position20>
+      <Position21>
+        <Filename Value="removendo_duplamente_ordenado.lpr"/>
+        <Caret Line="116" Column="22" TopLine="88"/>
+      </Position21>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

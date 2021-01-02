@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="32" Y="77"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="33" Column="6" TopLine="12"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="18" Column="33" TopLine="3"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="29" Column="18" TopLine="12"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="37" Column="33" TopLine="12"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="36" Column="22" TopLine="12"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="41" Column="3" TopLine="33"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="51" Column="3" TopLine="32"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="48" Column="10" TopLine="32"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="70" Column="39" TopLine="46"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="65" Column="42" TopLine="47"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="62" Column="46" TopLine="46"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Estrutura_de_Pilha.lpr"/>
+        <Caret Line="64" Column="18" TopLine="46"/>
+      </Position12>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

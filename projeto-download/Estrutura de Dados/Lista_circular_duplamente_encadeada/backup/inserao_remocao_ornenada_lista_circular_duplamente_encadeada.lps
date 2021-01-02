@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="inserao_remocao_ornenada_lista_circular_duplamente_encadeada.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="91"/>
+        <CursorPos X="20" Y="106"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="inserao_remocao_ornenada_lista_circular_duplamente_encadeada.lpr"/>
+        <Caret Line="98" Column="25" TopLine="40"/>
+      </Position1>
+      <Position2>
+        <Filename Value="inserao_remocao_ornenada_lista_circular_duplamente_encadeada.lpr"/>
+        <Caret Line="147" Column="20" TopLine="120"/>
+      </Position2>
+      <Position3>
+        <Filename Value="inserao_remocao_ornenada_lista_circular_duplamente_encadeada.lpr"/>
+        <Caret Line="108" Column="24" TopLine="91"/>
+      </Position3>
+      <Position4>
+        <Filename Value="inserao_remocao_ornenada_lista_circular_duplamente_encadeada.lpr"/>
+        <Caret Line="141" Column="9" TopLine="120"/>
+      </Position4>
+      <Position5>
+        <Filename Value="inserao_remocao_ornenada_lista_circular_duplamente_encadeada.lpr"/>
+        <Caret Line="147" Column="26" TopLine="120"/>
+      </Position5>
+      <Position6>
+        <Filename Value="inserao_remocao_ornenada_lista_circular_duplamente_encadeada.lpr"/>
+        <Caret Line="102" Column="10" TopLine="91"/>
+      </Position6>
+      <Position7>
+        <Filename Value="inserao_remocao_ornenada_lista_circular_duplamente_encadeada.lpr"/>
+        <Caret Line="101" Column="57" TopLine="84"/>
+      </Position7>
+      <Position8>
+        <Filename Value="inserao_remocao_ornenada_lista_circular_duplamente_encadeada.lpr"/>
+        <Caret Line="103" Column="10" TopLine="87"/>
+      </Position8>
+      <Position9>
+        <Filename Value="inserao_remocao_ornenada_lista_circular_duplamente_encadeada.lpr"/>
+        <Caret Line="108" Column="6" TopLine="88"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

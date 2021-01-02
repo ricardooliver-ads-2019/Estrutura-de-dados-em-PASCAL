@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="inserindo_ordenado_simplesmente_header2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="80"/>
+        <CursorPos X="19" Y="81"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="inserindo_ordenado_simplesmente_header2.lpr"/>
+        <Caret Line="68" Column="30" TopLine="27"/>
+      </Position1>
+      <Position2>
+        <Filename Value="inserindo_ordenado_simplesmente_header2.lpr"/>
+        <Caret Line="70" Column="14" TopLine="28"/>
+      </Position2>
+      <Position3>
+        <Filename Value="inserindo_ordenado_simplesmente_header2.lpr"/>
+        <Caret Line="92" Column="48" TopLine="60"/>
+      </Position3>
+      <Position4>
+        <Filename Value="inserindo_ordenado_simplesmente_header2.lpr"/>
+        <Caret Line="125" Column="30" TopLine="93"/>
+      </Position4>
+      <Position5>
+        <Filename Value="inserindo_ordenado_simplesmente_header2.lpr"/>
+        <Caret Line="121" Column="12" TopLine="93"/>
+      </Position5>
+      <Position6>
+        <Filename Value="inserindo_ordenado_simplesmente_header2.lpr"/>
+        <Caret Line="118" Column="29" TopLine="93"/>
+      </Position6>
+      <Position7>
+        <Filename Value="inserindo_ordenado_simplesmente_header2.lpr"/>
+        <Caret Line="115" Column="34" TopLine="81"/>
+      </Position7>
+      <Position8>
+        <Filename Value="inserindo_ordenado_simplesmente_header2.lpr"/>
+        <Caret Line="116" Column="25" TopLine="93"/>
+      </Position8>
+      <Position9>
+        <Filename Value="inserindo_ordenado_simplesmente_header2.lpr"/>
+        <Caret Line="126" Column="24" TopLine="93"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

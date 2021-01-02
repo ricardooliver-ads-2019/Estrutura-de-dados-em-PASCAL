@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\i386-win32\fpc.exe" Date="1313016277"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\User\Desktop\lib\i386-win32 -FuC:\Users\User\Desktop\ -FUC:\Users\User\Desktop\lib\i386-win32\ -FEC:\Users\User\Desktop\ -oC:\Users\User\Desktop\Plista.exe Plista.lpr"/>
+</CONFIG>

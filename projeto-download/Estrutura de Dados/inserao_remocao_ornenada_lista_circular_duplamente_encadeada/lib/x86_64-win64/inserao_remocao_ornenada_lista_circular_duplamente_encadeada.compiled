@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1313017496"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiE:\meus arquivos\Estruturas de dados\inserao_remocao_ornenada_lista_circular_duplamente_encadeada\lib\x86_64-win64&quot; &quot;-FuE:\meus arquivos\Estruturas de dados\inserao_remocao_ornenada_lista_circular_duplamente_encadeada\&quot; &quot;-FUE:\meus arquivos\Estruturas de dados\inserao_remocao_ornenada_lista_circular_duplamente_encadeada\lib\x86_64-win64\&quot; &quot;-FEE:\meus arquivos\Estruturas de dados\inserao_remocao_ornenada_lista_circular_duplamente_encadeada\&quot; &quot;-oE:\meus arquivos\Estruturas de dados\inserao_remocao_ornenada_lista_circular_duplamente_encadeada\inserao_remocao_ornenada_lista_circular_duplamente_encadeada.exe&quot; inserao_remocao_ornenada_lista_circular_duplamente_encadeada.lpr"/>
+</CONFIG>

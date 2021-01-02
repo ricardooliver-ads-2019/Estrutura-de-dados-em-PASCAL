@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="78"/>
+        <CursorPos X="2" Y="85"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="14" HistoryIndex="13">
+      <Position1>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="18" Column="22"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="4" Column="12"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="30" Column="7" TopLine="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="17" Column="13"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="57" Column="13" TopLine="30"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="31" Column="21" TopLine="15"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="72" Column="28" TopLine="42"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="65" Column="14" TopLine="42"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="71" Column="3" TopLine="42"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="70" Column="48" TopLine="42"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="72" Column="45" TopLine="42"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="79" Column="14" TopLine="48"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="93" Column="18" TopLine="61"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Lista_simples_Ordenada.lpr"/>
+        <Caret Line="106" Column="29" TopLine="94"/>
+      </Position14>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

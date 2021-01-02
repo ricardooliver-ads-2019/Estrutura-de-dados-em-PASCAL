@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\i386-win32\fpc.exe" Date="1313016277"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\User\Desktop\Exercicios de Estrutura de Dados\lista_ordenada_cirular\lib\i386-win32&quot; &quot;-FuC:\Users\User\Desktop\Exercicios de Estrutura de Dados\lista_ordenada_cirular\&quot; &quot;-FUC:\Users\User\Desktop\Exercicios de Estrutura de Dados\lista_ordenada_cirular\lib\i386-win32\&quot; &quot;-FEC:\Users\User\Desktop\Exercicios de Estrutura de Dados\lista_ordenada_cirular\&quot; &quot;-oC:\Users\User\Desktop\Exercicios de Estrutura de Dados\lista_ordenada_cirular\lista_ordenada_cirular.exe&quot; lista_ordenada_cirular.lpr"/>
+</CONFIG>

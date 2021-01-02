@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="121"/>
+        <CursorPos X="68" Y="138"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="13" HistoryIndex="12">
+      <Position1>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="63" Column="31" TopLine="38"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="4" Column="17"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="9" Column="6"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="37" Column="18" TopLine="21"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="57" Column="37" TopLine="38"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="63" Column="26" TopLine="38"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="60" Column="36" TopLine="35"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="63" Column="29" TopLine="38"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="88" Column="32" TopLine="62"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="127" Column="22" TopLine="94"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="109" Column="42" TopLine="92"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="156" Column="3" TopLine="128"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Lista_DuplamenteEncadeada.lpr"/>
+        <Caret Line="132" Column="48" TopLine="115"/>
+      </Position13>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
